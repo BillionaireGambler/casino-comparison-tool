@@ -1,0 +1,24 @@
+// data/casinos.json
+[
+  {
+    "name": "Casino Royale",
+    "bonus": "Free Spins",
+    "payout": "24 hours",
+    "license": "UKGC",
+    "link": "https://casino-example.com/royale"
+  },
+  {
+    "name": "BillionBet",
+    "bonus": "No Deposit",
+    "payout": "48 hours",
+    "license": "UKGC",
+    "link": "https://casino-example.com/billionbet"
+  },
+  {
+    "name": "HighRollerz",
+    "bonus": "Matched Bonus",
+    "payout": "Instant",
+    "license": "UKGC",
+    "link": "https://casino-example.com/highrollerz"
+  }
+]
